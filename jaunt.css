@@ -1,0 +1,43 @@
+/* CSS Document */
+BODY {
+  font-family: Arial,Helvetica,TrebuchetMS
+}
+.center {
+  text-align: center;
+}
+p.tight {
+  margin: 0in;
+}
+li.indented {
+  margin-left: 10%;
+  margin-right: 15%;
+  text-align: justify;
+}
+ol.sub_reg {
+  list-style-type: lower-alpha;
+}
+td.score_head {
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+}
+td.score {
+  text-align: center;
+  vertical-align: middle;
+}
+td.score_header {
+  text-align: center;
+  vertical-align: middle;
+  font-weight: bold;
+}
+td.overall_header {
+  text-align: left;
+  vertical-align: middle;
+  font-weight: bold;
+}
+td.overall {
+  text-align: left;
+  vertical-align: middle;
+}
+table.scores {
+}
